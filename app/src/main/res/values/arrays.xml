@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string-array name="sendItems">
+        <item>Resume</item>
+        <item>Generic Cover Letter</item>
+        <item>References</item>
+        <item>Publications</item>
+    </string-array>
+    <string-array name="receiverItems">
+        <item>Candidate #1</item>
+        <item>Candidate #2</item>
+        <item>Candidate #3</item>
+    </string-array>
+</resources>
